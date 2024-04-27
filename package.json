@@ -1,6 +1,6 @@
 {
-  "name": "qfz_currencyconverter",
-  "version": "2.0.0",
+  "name": "qfzs_currencyconverter",
+  "version": "2.0.1",
   "description": "",
   "main": "main.js",
   "type":"module",
